@@ -32,7 +32,7 @@
     "url": "https://github.com/Andreyco/react-app-rewire-lingui/issues"
   },
   "homepage": "https://github.com/Andreyco/react-app-rewire-lingui#readme",
-  "dependencies": {
+  "peerDependencies": {
     "@lingui/babel-plugin-transform-js": "^2.0.7",
     "@lingui/babel-plugin-transform-react": "^2.0.7"
   }
