@@ -1,6 +1,6 @@
 {
   "name": "react-app-rewire-lingui",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Add jsLingui babel plugins to create-react-app using react-app-rewired",
   "main": "index.js",
   "scripts": {
